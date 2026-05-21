@@ -12,19 +12,23 @@ pip install scikit-image
 pip install pillow
 ```
 ## Estrutura do Repositório
- 📄 Imagem representativa do Processo
- 
- ├── Exemplo segmentacao&extração.png
+📦 Pre-processamento-de-imagens-Histopatologicas
 
- 📄 Codigo em Python
- 
- ├── PREPROCESSAMENTO.py
-
-  📄 Codigo em jupiter
+  📂 NotebooksCode 
   
- ├── Preprocessamento.ipynb
-
-📄 README.md
+  ┗ 📄 Preprocessamento.ipynb
+ 
+  📂 PythonCode
+ 
+  ┗ 📄 PreProcessamento.py
+ 
+  📂 imagens
+ 
+  ┗ 🖼️ Exemplo_segmentacao_extracao.png
+ 
+  ┗ 🖼️ Fluxograma.png
+ 
+  📄 README.md
 ## Fluxo Metodológico
 ```bash
 TCGA Whole-Slide Images
