@@ -51,4 +51,4 @@ O pipeline reduz a complexidade das imagens histopatológicas por meio da geraç
 Emily Vitorya de Moura
 
 ### Contato
-[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:emilymoura@alunos.utfpr.edu.br;)
+[![Gmail](https://skillicons.dev/icons?i=gmail)](emailto:emilymoura@alunos.utfpr.edu.br;)
