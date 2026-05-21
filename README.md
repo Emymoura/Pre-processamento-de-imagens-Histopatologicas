@@ -55,7 +55,6 @@ Emily Vitorya de Moura
 ## Contato
 
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:emilymoura@alunos.utfpr.edu.br)
-emilymoura@alunos.utfpr.edu.br
 
 [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/Emymoura)
 
