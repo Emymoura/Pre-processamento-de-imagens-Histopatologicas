@@ -45,25 +45,20 @@ pip install pillow
 
 <br>
 ↓
-
 <br>
 <img src="https://img.shields.io/badge/Leitura%20em%20baixa%20resolução-7A3EB1?style=for-the-badge&logo=python&logoColor=white">
 <br>
 ↓
-
 <br>
 <img src="https://img.shields.io/badge/Escala%20de%20Cinza-9B59D0?style=for-the-badge">
 <br>
 ↓
-
 <br>
 <img src="https://img.shields.io/badge/Segmentação%20Otsu-B06FE3?style=for-the-badge">
 <br>
 ↓
-
 <br>
 <img src="https://img.shields.io/badge/Patches%20256x256-C792EA?style=for-the-badge">
-
 <br>
 ↓
 <br>
@@ -73,7 +68,6 @@ pip install pillow
 <br>
 <img src="https://img.shields.io/badge/Dataset%20JPG-5D2E8C?style=for-the-badge&logo=jpeg&logoColor=white">
 <br>
-
 </p>
 
 
