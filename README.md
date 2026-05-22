@@ -29,7 +29,7 @@ pip install pillow
  
   ┗ 📄 [PreProcessamento.py](./PythonCode/PreProcessamento.py)
  
-  📂  [imagens](./imagens/)  
+  📂  [imagens](./Imagens/)  
  
   ┗  🖼️ [Exemplo_segmentacao_extracao.png](./Imagens/Exemplo_segmentacao_extracao.png) 
  
