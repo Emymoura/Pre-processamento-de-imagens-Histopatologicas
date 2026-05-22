@@ -89,7 +89,7 @@ Emily Vitorya de Moura
 
 <p align="center">
   <img 
-    src="https://capsule-render.vercel.app/api?type=waving&height=150&color=4B0082&section=footer"
+    src="https://capsule-render.vercel.app/api?type=waving&height=200&color=4B0082&section=footer"
     width="100%"
   />
 </p>
