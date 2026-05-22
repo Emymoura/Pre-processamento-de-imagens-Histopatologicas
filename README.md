@@ -38,21 +38,45 @@ pip install pillow
   📄 [README.md](./README.md)
 
 ## Fluxo Metodológico
-```bash
-TCGA Whole-Slide Images
-        ↓
-Leitura em baixa resolução
-        ↓
-Conversão para escala de cinza
-        ↓
-Segmentação utilizando Otsu
-        ↓
-Extração de patches representativos (256×256)
-        ↓
-Filtragem HSV
-        ↓
-Dataset comprimido em JPG
-```
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/TCGA%20Whole--Slide%20Images-5D2E8C?style=for-the-badge&logo=databricks&logoColor=white">
+
+<br>
+↓
+
+<br>
+<img src="https://img.shields.io/badge/Leitura%20em%20baixa%20resolução-7A3EB1?style=for-the-badge&logo=python&logoColor=white">
+<br>
+↓
+
+<br>
+<img src="https://img.shields.io/badge/Escala%20de%20Cinza-9B59D0?style=for-the-badge">
+<br>
+↓
+
+<br>
+<img src="https://img.shields.io/badge/Segmentação%20Otsu-B06FE3?style=for-the-badge">
+<br>
+↓
+
+<br>
+<img src="https://img.shields.io/badge/Patches%20256x256-C792EA?style=for-the-badge">
+
+<br>
+↓
+<br>
+<img src="https://img.shields.io/badge/Filtragem%20HSV-D8B4F8?style=for-the-badge">
+<br>
+↓
+<br>
+<img src="https://img.shields.io/badge/Dataset%20JPG-5D2E8C?style=for-the-badge&logo=jpeg&logoColor=white">
+<br>
+
+</p>
+
+
 ## Resultados
 O pipeline reduz a complexidade das imagens histopatológicas por meio da geração de patches representativos de tecido em formato JPG, preservando estruturas morfológicas relevantes e reduzindo redundância e custo computacional.
 ## Autores
