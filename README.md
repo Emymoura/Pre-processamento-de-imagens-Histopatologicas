@@ -31,9 +31,9 @@ pip install pillow
  
   📂  [imagens](./imagens/)  
  
-  ┗  🖼️ [Exemplo_segmentacao_extracao.png](./imagens/Exemplo_segmentacao_extracao.png) 
+  ┗  🖼️ [Exemplo_segmentacao_extracao.png](./Imagens/Exemplo_segmentacao&extracao.png) 
  
-  ┗ 🖼️ [Fluxograma.png](./imagens/Fluxograma.png)  
+  ┗ 🖼️ [Fluxograma.png](./Imagens/Fluxograma.png)  
  
   📄 [README.md](./README.md)
 
