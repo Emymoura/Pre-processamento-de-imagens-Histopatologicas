@@ -1,6 +1,6 @@
 <p align="center">
   <img 
-    src="https://capsule-render.vercel.app/api?type=waving&height=150&width=1000&color=4B0082&reversal=false&fontAlignY=20&text=Pré-processamento%20de%20Imagens%20Histopatológicas&fontSize=35&fontColor=F8F8FF&animation=fadeIn"
+    src="https://capsule-render.vercel.app/api?type=waving&height=200&width=1000&color=4B0082&reversal=false&fontAlignY=20&text=Pré-processamento%20de%20Imagens%20Histopatológicas&fontSize=35&fontColor=F8F8FF&animation=fadeIn"
     width="100%"
   />
 </p>
